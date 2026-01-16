@@ -1,5 +1,5 @@
 export let user = {
-    firstName : Marlonn,
-    lastName : Gillet
+    firstName : "Marlonn",
+    lastName : "Gillet"
 }
 
